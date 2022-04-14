@@ -1,2 +1,1 @@
-# my_first_project
-my_first_2020
+# 프로젝트 포트폴리오
